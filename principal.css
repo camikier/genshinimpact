@@ -1,0 +1,53 @@
+body {
+background-color:#f7cae6;
+color: #fcfcfc;
+}
+h1 {
+font-size: 30px;
+p { font-family: Calibri; }
+background-color:#e0c1f5;
+color: white
+text-align: center
+}
+
+p {
+  font-size: 18px;
+  color:#33293d;
+}
+
+a:link {
+color:#c795f9;
+p { font-family: Calibri; }
+background-color:transparent
+text-decoration: none
+}
+
+a:visited {
+color:#cf9fe9
+background-color: transparent;
+text-shadow: none
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+.main {
+float:center;
+width:80%;
+padding-left:120px;
+text-align:justify;
+}
+
+.batata {
+float:center;
+width:80%;
+padding-left:120px;
+text-align:center;
+}
+
